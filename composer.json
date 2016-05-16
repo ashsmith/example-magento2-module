@@ -30,7 +30,7 @@
   ],
   "autoload": {
     "files": [
-      "registration.php"
+      "src/registration.php"
     ],
     "psr-4": {
       "Meanbee\\ExampleMagento2Module\\": "/src"
